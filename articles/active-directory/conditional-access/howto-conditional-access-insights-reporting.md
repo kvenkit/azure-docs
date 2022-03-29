@@ -156,3 +156,4 @@ You can edit and customize the workbook by going to **Azure Active Directory** >
 - For more information about Azure AD workbooks, see the article, [How to use Azure Monitor workbooks for Azure Active Directory reports](../reports-monitoring/howto-use-azure-monitor-workbooks.md).
 
 - [Conditional Access common policies](concept-conditional-access-policy-common.md)
+
